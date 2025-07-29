@@ -86,12 +86,8 @@ O diagrama de topologia foi desenvolvido no [draw.io](https://app.diagrams.net)
 
 ---
 
-## 📁 Anexos
 
-- Prints de ferramentas e resultados de scans
-- Evidências técnicas (varreduras Nmap, Rustscan, etc.)
 
----
 
 > 
 
