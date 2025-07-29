@@ -1,0 +1,17 @@
+openldap.projeto_final_opcao_1_infra_net (10.10.30.17) at de:e2:b3:6a:e6:ad [ether] on eth0
+legacy-server.projeto_final_opcao_1_infra_net (10.10.30.227) at 82:91:17:d3:eb:fe [ether] on eth0
+? (10.10.30.1) at d2:fc:a1:c3:34:0c [ether] on eth0
+WS_002.projeto_final_opcao_1_corp_net (10.10.10.101) at ae:4c:02:de:5b:02 [ether] on eth1
+samba-server.projeto_final_opcao_1_infra_net (10.10.30.15) at 0e:68:52:d9:73:8c [ether] on eth0
+WS_004.projeto_final_opcao_1_corp_net (10.10.10.222) at d6:a1:b2:a2:ba:f7 [ether] on eth1
+macbook-aline.projeto_final_opcao_1_guest_net (10.10.50.4) at 3a:9f:df:6c:95:ae [ether] on eth2
+WS_001.projeto_final_opcao_1_corp_net (10.10.10.10) at 0a:2d:4f:76:12:c4 [ether] on eth1
+zabbix-server.projeto_final_opcao_1_infra_net (10.10.30.117) at 1a:b1:4c:ca:e7:ec [ether] on eth0
+? (10.10.50.1) at fa:8a:40:0c:82:54 [ether] on eth2
+laptop-vastro.projeto_final_opcao_1_guest_net (10.10.50.2) at 02:7c:ac:93:f3:a7 [ether] on eth2
+ftp-server.projeto_final_opcao_1_infra_net (10.10.30.10) at 5a:de:ec:5f:05:33 [ether] on eth0
+notebook-carlos.projeto_final_opcao_1_guest_net (10.10.50.5) at 56:2b:4b:d1:a9:3d [ether] on eth2
+? (10.10.10.1) at 0e:ca:ba:ce:e2:1f [ether] on eth1
+laptop-luiz.projeto_final_opcao_1_guest_net (10.10.50.3) at 1a:2b:70:6b:79:71 [ether] on eth2
+mysql-server.projeto_final_opcao_1_infra_net (10.10.30.11) at 8a:02:3c:a4:a3:d8 [ether] on eth0
+WS_003.projeto_final_opcao_1_corp_net (10.10.10.127) at 16:d3:c1:0e:5f:99 [ether] on eth1
